@@ -1,1 +1,2 @@
-So what does that mean? Well, it means that sometimes when you're executing the body of a function and its the recursive function that might require you to apply that same function again.
+A recursive function is a function whose body calls itself either 
+directly or indirectly. We'll look at both cases today.
